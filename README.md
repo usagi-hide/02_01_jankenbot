@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# プロダクトのタイトル
+- jankenbot
+## プロダクトの紹介
+- セクシー女優と野球拳ができる
+## 工夫した点,こだわった点
+- お問い合わせの内容をSlackに通知できる
+- 条件分岐
+## 苦戦した点,共有したいハマりポイントなど
+- エラーを直したらまた別のエラー
+- エラー文はきちんと読む
+- console.log()での検証は神！！
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
