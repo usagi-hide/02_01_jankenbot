@@ -416,19 +416,19 @@ const defaultDataset = {
     answers: [
       { content: "2戦目に進む", nextId: "yakyu-ken2" },
     ],
-    question: <img src={image1} width="100%" height="auto"/>,
+    question: <img src={image1} width="100%" height="auto" alt="img"/>,
   },
     "yakyu-ken-3rd": {
       answers: [
         { content: "3戦目に進む", nextId: "yakyu-ken3" },
       ],
-      question: <img src={image2} width="100%" height="auto"/>,
+      question: <img src={image2} width="100%" height="auto" alt="img"/>,
   },
     "yakyu-ken-4th": {
       answers: [
         { content: "最終戦に進む", nextId: "yakyu-ken4" },
       ],
-    question: <img src={image3} width="100%" height="auto"/>,
+    question: <img src={image3} width="100%" height="auto" alt="img"/>,
   },
     // drow or lose-zone
   "yakyukenretryFirst": {
